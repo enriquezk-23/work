@@ -1,0 +1,1 @@
+{\n  \"server_url\": \"https://example.com/api\",\n  \"api_key\": \"your_api_key\",\n  \"device_management\": {\n    \"enable_device_tracking\": true,\n    \"allow_remote_wipe\": true\n  }\n}
